@@ -1,4 +1,4 @@
-# IT331_IT332_Final_Project
+# Project Title: TastyFushion: Discovering Exquisite Recipies
 
 Since we lead it on a culinary journey through chapters loaded with appetizers,
 main courses, desserts, and a bit more, learn the technique of combining various components.
