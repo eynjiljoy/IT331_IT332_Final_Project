@@ -17,7 +17,7 @@ With TastyFusion, get ready to stimulate your senses, tantalize your taste buds,
 The SDGs that this project seeks to achieve are Partnerships for the Goal, Good Health and Well-Being. The following is a deeper description of these SDG:
 
 <h3>Goal 3: GOOD HEALTH AND WELL-BEING</h3>
-![sdg3](https://github.com/eynjiljoy/IT331_IT332_Final_Project/issues/1#issue-1773811851)
+![Sdg3](https://github.com/eynjiljoy/IT331_IT332_Final_Project/issues/1#issue-1773811851)
 
 # Purpose and Description
 
