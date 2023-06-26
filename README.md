@@ -18,7 +18,7 @@ The SDGs that this project seeks to achieve are Partnerships for the Goal, Good 
 
 <h3>Goal 3: GOOD HEALTH AND WELL-BEING</h3>
 
-![Sdg3](https://github.com/eynjiljoy/IT331_IT332_Final_Project/issues/1#issue-1773811851)
+![Sdg3]([https://github.com/eynjiljoy/IT331_IT332_Final_Project/issues/1#issue-1773811851](https://user-images.githubusercontent.com/90877172/248663152-23a07558-1704-4412-bd6c-569284d0c2ba.png)https://user-images.githubusercontent.com/90877172/248663152-23a07558-1704-4412-bd6c-569284d0c2ba.png)
 
 # Purpose and Description
 
