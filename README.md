@@ -2,7 +2,7 @@
 
 *A project proposal presented to the Faculty of College of Informatics and Computing Sciences, Batangas State University - The National Engineering University, in partial fulfillment of the requirements in the course IT 331: Application Development and Emerging Technologies and IT 332: Integrative Programming and Technologies*
 
-#Introduction
+# Introduction
 
 Since we lead it on a culinary journey through chapters loaded with appetizers,
 main courses, desserts, and a bit more, learn the technique of combining various components.
