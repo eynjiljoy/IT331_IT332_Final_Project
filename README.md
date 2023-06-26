@@ -14,4 +14,4 @@ and release your inner chef. Let's embark on this voyage and discover all the
 delicious possibilities that exist.
 
 # Sustainable Development Goals (SDG)
-
+The SDGs that this project seeks to achieve are Partnerships for the Goal, Good Health and Well-Being. The following is a deeper description of these SDG:
