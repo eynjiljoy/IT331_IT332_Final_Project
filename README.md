@@ -12,3 +12,6 @@ to ensure a wonderful balance of flavors and an easy-to-follow cooking method.
 With TastyFusion, get ready to stimulate your senses, tantalize your taste buds,
 and release your inner chef. Let's embark on this voyage and discover all the
 delicious possibilities that exist.
+
+# Sustainable Development Goals (SDG)
+
