@@ -16,7 +16,7 @@ With TastyFusion, get ready to stimulate your senses, tantalize your taste buds,
 # Sustainable Development Goals (SDG)
 The SDGs that this project seeks to achieve are Partnerships for the Goal, Good Health and Well-Being. The following is a deeper description of these SDG:
 
-Goal 3: GOOD HEALTH AND WELL-BEING
+<h3>Goal 3: GOOD HEALTH AND WELL-BEING</h3>
 
 # Purpose and Description
 
