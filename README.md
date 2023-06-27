@@ -16,6 +16,6 @@ The SDGs that this project seeks to achieve are Partnerships for the Goal, Good 
 Globally sustainable consumption and production patterns are the goal of SDG 12. It emphasizes on resource efficiency, reducing waste production, and putting into practice waste management techniques that are friendly to the environment. This objective places a focus on the necessity of reducing waste generation and increasing recycling, reuse, and safe disposal techniques.
 
 # Purpose and Description
+Imaginative mobile software called Ecomate combines revolutionary capabilities like object identification, barcode scanning, advanced search, voice assistance, reading materials, and user account functionality to make it easier to implement a sustainable waste management strategy. Ecomate equips individuals and communities with the tools they need to actively contribute to the development of a greener and more sustainable future by utilizing cutting-edge technology.
 
 # Significance of the Proposed Project
-Imaginative mobile software called Ecomate combines revolutionary capabilities like <h5>object identification, barcode scanning, advanced search, voice assistance, reading materials, and user account </h5> functionality to make it easier to implement a sustainable waste management strategy. Ecomate equips individuals and communities with the tools they need to actively contribute to the development of a greener and more sustainable future by utilizing cutting-edge technology.
