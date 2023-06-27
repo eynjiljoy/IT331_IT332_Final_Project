@@ -18,5 +18,7 @@ This project seeks to contribute to the attainment of the following SDGs:
 
 <h3>Goal 13: Climate Action</h3>
 
+Although EcoMate may not directly fulfill all of the goals in this SDG, it can help with efforts to adapt to and mitigate climate change. This application will encourage users to adopt habits that lessen trash production, favor recycling and composting, and discourage the disposal of waste through incineration, which will lead to a reduction in emissions and aid in efforts to mitigate climate change.
+
 ![sdg13](https://github.com/eynjiljoy/IT331_IT332_Final_Project/assets/113650068/8a17cfaa-10d3-42b4-95e2-bf04ee07a611)
 
