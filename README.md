@@ -9,9 +9,11 @@ Ecomate fosters cooperative efforts in addressing the global trash challenge by 
 # Sustainable Development Goals (SDG)
 The SDGs that this project seeks to achieve are Partnerships for the Goal, Good Health and Well-Being. The following is a deeper description of these SDG:
 
-<h3>Goal 3: GOOD HEALTH AND WELL-BEING</h3>
+<h3>Goal 12: Responsible Consumption and Production</h3>
 
 ![images](https://github.com/eynjiljoy/IT331_IT332_Final_Project/assets/113650068/f53e5d1a-9ec3-46f9-8a09-12c250557f29)
+
+Globally sustainable consumption and production patterns are the goal of SDG 12. It emphasizes on resource efficiency, reducing waste production, and putting into practice waste management techniques that are friendly to the environment. This objective places a focus on the necessity of reducing waste generation and increasing recycling, reuse, and safe disposal techniques.
 
 # Purpose and Description
 
