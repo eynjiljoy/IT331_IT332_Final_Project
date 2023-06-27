@@ -12,7 +12,7 @@ This project seeks to contribute to the attainment of the following SDGs:
 
 ![sdg12](https://github.com/eynjiljoy/IT331_IT332_Final_Project/assets/113650068/853f63be-4d46-4795-8e81-2dabd6dc83ea)
 
-<p align="justify"> &nbsp;&nbsp;&nbsp;&nbsp; Globally sustainable consumption and production patterns are the goal of SDG 12. It emphasizes on resource efficiency, reducing waste production, and putting into practice waste management techniques that are friendly to the environment. This objective places a focus on the necessity of reducing waste generation and increasing recycling, reuse, and safe disposal techniques.</p>
+<p align="justify"> &nbsp;&nbsp;&nbsp;&nbsp; Globally sustainable consumption and production patterns are the goal of SDG 12. It emphasizes on resource efficiency, reducing waste production, and putting into practice waste management techniques that are friendly to the environment. This objective places a focus on the necessity of reducing waste generation and increasing recycling, reuse, and safe disposal techniques which will be promoted through the features that EcoMate has.</p>
 
 ![sdg13](https://github.com/eynjiljoy/IT331_IT332_Final_Project/assets/113650068/8a17cfaa-10d3-42b4-95e2-bf04ee07a611)
 
