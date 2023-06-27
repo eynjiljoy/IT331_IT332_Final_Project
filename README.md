@@ -1,10 +1,10 @@
-# Project Title: Ecomate: Catalyzing Sustainable Waste Solutions for a Greener Future
+# Project Title: EcoMate: Catalyzing Sustainable Waste Solutions for a Greener Future
 *A project proposal presented to the Faculty of College of Informatics and Computing Sciences, Batangas State University - The National Engineering University, in partial fulfillment of the requirements in the course IT 331: Application Development and Emerging Technologies and IT 332: Integrative Programming and Technologies*
 
 # Introduction
 
-Ecomate is an innovative solution built to promote environmentally friendly waste management strategies and pave the way for a greener future. Utilizing cutting-edge technology, Ecomate strives to promote effective resource optimization, recycling, and garbage disposal through a user-friendly platform. 
-Ecomate fosters cooperative efforts in addressing the global trash challenge by bringing together people, companies, and waste management groups. It also encourages ecologically responsible behavior and supports a circular economy.
+EcoMate is an innovative solution built to promote environmental friendly waste management strategies and pave the way for a greener future. Utilizing cutting-edge technology, EcoMate strives to promote effective resource optimization, recycling, and garbage disposal through a user-friendly platform. 
+EcoMate fosters cooperative efforts in addressing the global trash challenge by bringing together people, companies, and waste management groups. It also encourages ecologically responsible behavior and supports a circular economy.
 
 # Sustainable Development Goals (SDG)
 The SDGs that this project seeks to achieve are Partnerships for the Goal, Good Health and Well-Being. The following is a deeper description of these SDG:
