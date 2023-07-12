@@ -20,6 +20,9 @@ This project seeks to contribute to the attainment of the following SDGs:
 
 # Development Model
 
+The application's developers have utilized agile development model in creating the application. As shown in the figure below, the model is consist of six phases namely Requirements, Design, Development, Testing, Launching and Maintenance. The framework allows the developers to modify each processes to fulfill the objectives.
+
+
 # System Architecture
 
 # Github Repository
