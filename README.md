@@ -20,7 +20,34 @@ This project seeks to contribute to the attainment of the following SDGs:
 
 # Development Model
 
-The application's developers have utilized agile development model in creating the application. As shown in the figure below, the model is consist of six phases namely Requirements, Design, Development, Testing, Launching and Maintenance. The framework allows the developers to modify each processes to fulfill the objectives.
+<p align="justify"> &nbsp;&nbsp;&nbsp;&nbsp; The application's developers have utilized agile development model in creating the application. As shown in the figure below, the model is consist of six phases namely Requirements, Design, Development, Testing, Launching and Review. The framework allows the developers to modify each processes to fulfill the objectives.
+![agile](https://github.com/eynjiljoy/IT331_IT332_Final_Project/assets/113650068/ce09e6d1-d75e-41c7-8685-c645dc00c241)</p>
+
+<h3>Requirements</h3>
+
+<p align="justify"> &nbsp;&nbsp;&nbsp;&nbsp; This is the first phase of the development model wherein the developers have identified the objectives of creating the application. In addition to this, different requirements have been identified such as the programming languages to be utilized in order to meet the desired output.</p>
+
+<h3>Design</h3>
+
+<p align="justify"> &nbsp;&nbsp;&nbsp;&nbsp; This phase involves outlining the application's features, structures, criteria and deliverables in compliance with the specified requirements. This is where the graphical user interface is created. In creating such, the developers is considered the user's perspectives.</p>
+
+<h3>Development</h3>
+
+<p align="justify"> &nbsp;&nbsp;&nbsp;&nbsp; This is the phase wherein the outlines created in the second phase is turned to a real one through codes manipulation. It is where the desired application will be created.</p>
+
+<h3>Testing</h3>
+
+<p align="justify"> &nbsp;&nbsp;&nbsp;&nbsp; To make sure that the application will be working with minimal to no bugs and errors, the developers will have the application tested first which will takes place in this phase. It will determine whether the application's functions and features is working as it should be.</p>
+
+<h3>Launching</h3>
+
+<p align="justify"> &nbsp;&nbsp;&nbsp;&nbsp; This phase invloves deploying the application for mass usage in a real-world environment.</p>
+
+<h3>Review</h3>
+
+<p align="justify"> &nbsp;&nbsp;&nbsp;&nbsp; This is where the erorrs and bugs faced during the launching should be addressed and continuous improvement of the application should be made.</p>
+
+
 
 
 # System Architecture
