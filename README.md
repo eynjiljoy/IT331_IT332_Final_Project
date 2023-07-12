@@ -20,8 +20,9 @@ This project seeks to contribute to the attainment of the following SDGs:
 
 # Development Model
 
-<p align="justify"> &nbsp;&nbsp;&nbsp;&nbsp; The application's developers have utilized agile development model in creating the application. As shown in the figure below, the model is consist of six phases namely Requirements, Design, Development, Testing, Launching and Review. The framework allows the developers to modify each processes to fulfill the objectives.
-![agile](https://github.com/eynjiljoy/IT331_IT332_Final_Project/assets/113650068/ce09e6d1-d75e-41c7-8685-c645dc00c241)</p>
+<p align="justify"> &nbsp;&nbsp;&nbsp;&nbsp; The application's developers have utilized agile development model in creating the application. As shown in the figure below, the model is consist of six phases namely Requirements, Design, Development, Testing, Launching and Review. The framework allows the developers to modify each processes to fulfill the objectives.</p>
+  
+![agile](https://github.com/eynjiljoy/IT331_IT332_Final_Project/assets/113650068/ce09e6d1-d75e-41c7-8685-c645dc00c241)
 
 <h3>Requirements</h3>
 
