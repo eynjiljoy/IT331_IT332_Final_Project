@@ -26,19 +26,19 @@ This project seeks to contribute to the attainment of the following SDGs:
 
 <h3>Requirements</h3>
 
-<p align="justify"> &nbsp;&nbsp;&nbsp;&nbsp; This is the first phase of the development model wherein the developers have identified the objectives of creating the application. In addition to this, different requirements have been identified such as the programming languages to be utilized in order to meet the desired output.</p>
+<p align="justify"> &nbsp;&nbsp;&nbsp;&nbsp; This is the first phase of the development model wherein the developers have identified the objectives of creating the application. Throughout this phase, the developers do comprehensive research and gather relevant insights in order to gain an accurate understanding of the desired outcomes. In addition to defining the objectives, the developers begin the process of identifying a variety of requirements that must be met in order for the application to be successful. These requirements include determining the best programming languages to use. The developers carefully evaluate various programming languages, taking into account criteria such as application functionality, scalability, performance, and compatibility. The developers prepare the path for faster development, efficient code implementation, and optimal resource utilisation by carefully determining the programming languages that will be used. </p>
 
 <h3>Design</h3>
 
-<p align="justify"> &nbsp;&nbsp;&nbsp;&nbsp; This phase involves outlining the application's features, structures, criteria and deliverables in compliance with the specified requirements. This is where the graphical user interface is created. In creating such, the developers is considered the user's perspectives.</p>
+<p align="justify"> &nbsp;&nbsp;&nbsp;&nbsp;This phase entails a careful process of detailing the application's features, structures, criteria, and deliverables in line with the specifications. The developers considers factors such as functionality, user experience, and system architecture. They have extensive discussions and brainstorming sessions to conceptualise and outline the essential components and functionality of the application. During this process, the developers take into account a variety of criteria like as visual aesthetics, layout design, navigation flow, and interactive components. They utilise their knowledge of user interface design concepts like consistency, simplicity, and responsiveness to build an interface that not only fits functional needs yet also improves the entire user experience.</p>
 
 <h3>Development</h3>
 
-<p align="justify"> &nbsp;&nbsp;&nbsp;&nbsp; This is the phase wherein the outlines created in the second phase is turned to a real one through codes manipulation. It is where the desired application will be created.</p>
+<p align="justify"> &nbsp;&nbsp;&nbsp;&nbsp;Throughout this phase, the developers takes the architectural and design requirements from the earlier phases and begins writing the source code that will execute the application's capabilities. They choose the proper programming languages, frameworks, and tools based upon the needs and technical factors specified previously in the development process.</p>
 
 <h3>Testing</h3>
 
-<p align="justify"> &nbsp;&nbsp;&nbsp;&nbsp; To make sure that the application will be working with minimal to no bugs and errors, the developers will have the application tested first which will takes place in this phase. It will determine whether the application's functions and features is working as it should be.</p>
+<p align="justify"> &nbsp;&nbsp;&nbsp;&nbsp; During this phase, intensive testing is performed to guarantee that the application runs properly with few to no defects or issues. Testing is critical in verifying the application's functionality and dependability, ensuring that it satisfies the defined criteria and functions as intended. Throughout the testing phase, developers carefully execute test cases, simulate numerous situations, and observe the performance and behaviour of the application. They find and fix any problems, errors, or inconsistencies that arise during the testing process. They also carry out performance testing to determine the application's response time, scalability, and resource utilisation under various loads and stress circumstances. </p>
 
 <h3>Launching</h3>
 
@@ -46,7 +46,7 @@ This project seeks to contribute to the attainment of the following SDGs:
 
 <h3>Review</h3>
 
-<p align="justify"> &nbsp;&nbsp;&nbsp;&nbsp; This is where the erorrs and bugs faced during the launching should be addressed and continuous improvement of the application should be made.</p>
+<p align="justify"> &nbsp;&nbsp;&nbsp;&nbsp;This phase is critical for resolving any issues or bugs that may have occurred during the application's launch, as well as for constantly enhancing the application based on user input and developing demands. It is an iterative process that includes finding and addressing bugs as well as introducing changes to improve the application's performance, stability, and usability.</p>
 
 
 
