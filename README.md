@@ -56,3 +56,5 @@ This project seeks to contribute to the attainment of the following SDGs:
 # Github Repository
 
 # Team Members
+![ECOMATE](https://github.com/eynjiljoy/IT331_IT332_Final_Project/assets/90877172/378b3ab4-3a1a-4b7d-bf8e-245a501e3c4d)
+
