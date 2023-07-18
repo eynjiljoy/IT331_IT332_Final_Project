@@ -59,6 +59,8 @@ This project seeks to contribute to the attainment of the following SDGs:
 
 # System Architecture
 
+<p align="justify"> &nbsp;&nbsp;&nbsp;&nbsp; In this phase it typically represented through architectural diagram, which provide visual representation of the system's structure and its interaction with external entities. It requires a deep understanding of the system's purpose to consider the future growth of the system.</p>
+
 # Github Repository
 
 # Team Members
