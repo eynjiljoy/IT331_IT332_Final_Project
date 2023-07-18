@@ -1,7 +1,10 @@
 # Project Title: EcoMate: Catalyzing Sustainable Waste Solutions for a Greener Future
-*A project proposal presented to the Faculty of College of Informatics and Computing Sciences, Batangas State University - The National Engineering University, in partial fulfillment of the requirements in the course IT 331: Application Development and Emerging Technologies and IT 332: Integrative Programming and Technologies*
 
 ![EYYY](https://github.com/eynjiljoy/IT331_IT332_Final_Project/assets/90877172/82680587-6da5-4488-bc36-01b9cb06ae4c)
+
+*A project proposal presented to the Faculty of College of Informatics and Computing Sciences, Batangas State University - The National Engineering University, in partial fulfillment of the requirements in the course IT 331: Application Development and Emerging Technologies and IT 332: Integrative Programming and Technologies*
+
+
 
 
 # Project Description
