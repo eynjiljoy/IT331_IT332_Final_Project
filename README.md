@@ -61,6 +61,8 @@ This project seeks to contribute to the attainment of the following SDGs:
 
 <p align="justify"> &nbsp;&nbsp;&nbsp;&nbsp; In this phase it typically represented through architectural diagram, which provide visual representation of the system's structure and its interaction with external entities. It requires a deep understanding of the system's purpose to consider the future growth of the system.</p>
 
+![unnamed (2)](https://github.com/eynjiljoy/IT331_IT332_Final_Project/assets/75816538/690a2b18-6c91-45d6-8bbb-37603033e2b0)
+
 # Github Repository
 
 # Team Members
