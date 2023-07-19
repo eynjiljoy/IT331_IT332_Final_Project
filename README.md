@@ -48,7 +48,7 @@ This project seeks to contribute to the attainment of the following SDGs:
 
 <h3>Launching</h3>
 
-<p align="justify"> &nbsp;&nbsp;&nbsp;&nbsp; This phase invloves deploying the application for mass usage in a real-world environment.</p>
+<p align="justify"> &nbsp;&nbsp;&nbsp;&nbsp;This phase involves deploying the application for mass usage in a real-world environment. Throughout the deployment phase, the goal is to fulfill customer expectations through a high-quality solution. A flawless user experience is facilitated by efficient deployment and configuration, as well as vigilant monitoring and preventative maintenance. As the application is made more widely accessible and more people can take advantage of its capabilities, this phase lays the groundwork for future growth and success.</p>
 
 <h3>Review</h3>
 
