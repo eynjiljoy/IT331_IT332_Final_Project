@@ -1,0 +1,143 @@
+ion-header{
+    .header{
+        display:flex;
+        justify-content: space-between;
+        align-items: center;
+
+        .logo{
+            width: 100px;
+            height: 100px;
+            display: flex;
+            align-items: flex-start;
+            justify-content: center;
+            overflow: hidden;
+            margin-left: 5px;
+
+        }
+
+        .avatar{
+            width: 35px;
+            height: 35px;
+            background-color: #6b46bc;
+            border-radius: 50%;
+            display: flex;
+            align-items: flex-end;
+            justify-content: center;
+            overflow: hidden;
+            margin-right: 5px;
+
+            ion-img{
+                width:90%;
+                height:90%;
+            }
+        }
+    }
+}
+ion-content {
+    --padding-start: 2rem ;
+    --padding-end: 2rem ;
+ 
+}
+
+.span{
+    display:flex;
+    align-items:center;
+    justify-content: space-between;
+    
+    h3{
+        font-size: 15px;
+        font-weight:  bold;
+    }
+    ion-button{
+        --background:#c6f0a3;
+        color: #ffff;
+        margin-top: 10px;
+        font-size: 15px;
+        height: 19px;   
+    }
+}
+.content{
+    font-family: 'Lucida Sans';
+    font-weight: bolder;
+    font-size: 20px;
+}
+ 
+swiper-container{
+    img{
+        display: flex;
+        flex-direction: column;
+        flex-wrap: nowrap;
+        width: 70%;
+        transition: 600ms all ease-in-out;
+    }
+} 
+swiper-slide{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    transition: 400ms all ease-in-out;
+    border: 2px solid rgb(145, 138, 138);
+    border-radius: 30px;
+    background-color: #c6f0a3;
+    ion-label{
+        font-size: 15px;
+        text-align: center;
+        justify-content: center;
+    }
+}
+swiper-slide-active{
+    transform:scale(1.05, 1.05);
+    background-color: #24ad46;
+}
+
+.swiper2{
+  .swip2{
+        img{
+            object-fit: cover;
+            width: 100%;
+            transition: 600ms all ease-in-out;
+        }
+    } 
+    .slides{
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        transition: 400ms all ease-in-out;
+        border:0;
+    }
+    .slides{
+        transform:scale(1.05, 1.05);
+    }  
+    
+}
+ion-button{
+    color: black;
+}
+ 
+.view{
+  
+    ion-card {
+        --background: #c6f0a3;
+        margin: 0;
+        padding: 0;
+        height: 150px;
+        width: auto;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+      }
+      
+      ion-card img {
+        width: 100px;
+        display: block;
+        margin: 0 auto;
+
+      }
+      
+      ion-card-title {
+        font-size: 15px;
+        text-align: center;
+      }
+      
+}
