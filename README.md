@@ -65,7 +65,7 @@ This project seeks to contribute to the attainment of the following SDGs:
 
 ![unnamed (2)](https://github.com/eynjiljoy/IT331_IT332_Final_Project/assets/75816538/690a2b18-6c91-45d6-8bbb-37603033e2b00)
 
-<p align="justify"> &nbsp;&nbsp;&nbsp;&nbsp; The team presented the diagrams above to illustrate the users' interaction in the application. The diagrams show that the user may log in, sign up, view pages, view category pages, and view the procedures in the mobile application. This might help the user to know what the right things to do are in order to reduce waste. </p>
+<p align="justify"> &nbsp;&nbsp;&nbsp;&nbsp; The team presented the use case diagram above to illustrate the users' interaction in the application. The diagrams show that the user may log in, sign up, view pages, view category pages, and view the procedures in the mobile application. This might help the user to know what the right things to do are in order to reduce waste. </p>
 
 <h3>Sequence Diagram</h3>
 
