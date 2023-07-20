@@ -73,7 +73,6 @@ This project seeks to contribute to the attainment of the following SDGs:
 
 <p align="justify"> &nbsp;&nbsp;&nbsp;&nbsp; The sequence diagram shows the sequential order of the application's sign-up, log-in, and navigational interactions. Users can sign up or log in by entering their information in the appropriate fields on the sign-up or log-in forms, respectively. They can visit the homepage and browse through the many categories and processes after a successful authentication. In the application, the diagrams provide a clear representation of user activities and system replies.</p>
 
-
 # Github Repository
 
 # Team Members
