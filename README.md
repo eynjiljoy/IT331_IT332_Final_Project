@@ -69,7 +69,7 @@ This project seeks to contribute to the attainment of the following SDGs:
 
 <h3>Sequence Diagram</h3>
 
-![Clicks Log in button (1)](https://github.com/eynjiljoy/IT331_IT332_Final_Project/assets/75816538/f57380e4-c28e-448c-97f0-fc37620e1dd5)
+
 
 # Github Repository
 
