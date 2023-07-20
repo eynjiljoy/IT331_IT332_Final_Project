@@ -11,7 +11,7 @@
 
 <p align="justify"> &nbsp;&nbsp;&nbsp;&nbsp; EcoMate is an innovative solution built to promote environmental friendly waste management strategies and pave the way for a greener future. Utilizing cutting-edge technology, EcoMate strives to promote effective resource optimization, recycling, and garbage disposal through a user-friendly platform. EcoMate fosters cooperative efforts in addressing the global trash challenge by bringing together people, companies, and waste management groups. It also encourages ecologically responsible behavior and supports a circular economy. </p>
 
-<p align="justify"> &nbsp;&nbsp;&nbsp;&nbsp; Imaginative mobile software called EcoMate combines revolutionary capabilities like object identification, advanced search, reading materials, and user account functionality to make it easier to implement a sustainable waste management strategy. EcoMate equips individuals and communities with the tools they need to actively contribute to the development of a greener and more sustainable future by utilizing cutting-edge technology.</p>
+<p align="justify"> &nbsp;&nbsp;&nbsp;&nbsp; Imaginative mobile software called EcoMate combines revolutionary capabilities like object identification, reading materials, and user account functionality to make it easier to implement a sustainable waste management strategy. EcoMate equips individuals and communities with the tools they need to actively contribute to the development of a greener and more sustainable future by utilizing cutting-edge technology.</</p>
 
 <h2> Sustainable Development Goals (SDG) </h2>
 This project seeks to contribute to the attainment of the following SDGs:
