@@ -1,0 +1,29 @@
+<ion-content class="ion-padding">
+   
+  <div class="logo">
+    <img src="assets/logo.png" alt="logo">
+  </div>
+  <h3>Sign in to continue!</h3>
+
+    <ion-item lines="none">
+        <ion-icon slot="start" name="person-outline"></ion-icon>
+        <ion-input placeholder="Enter username..." type="text" [(ngModel)]="username"></ion-input>
+    </ion-item>
+
+    <ion-item lines="none">
+        <ion-icon  slot="start"  name="lock-closed-outline"></ion-icon>
+        <ion-input placeholder="Enter password..." type="password" [(ngModel)]="password"></ion-input>
+    </ion-item>
+  
+      <ion-button  class="forgot"fill="clear" (click)="openForgotPasswordModal()">Forgot Password?</ion-button>
+      
+    <div class="button">
+      <ion-button size="full" shape="round" (click)="login()" >Login</ion-button>  
+     </div>
+    
+    <div class="signup">
+       <ion-label>Don't have an account?</ion-label>
+      <ion-button fill="clear" routerLink="/signup">Sign up</ion-button>  
+    </div>  
+    
+</ion-content>

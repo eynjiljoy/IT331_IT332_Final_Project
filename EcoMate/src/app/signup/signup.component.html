@@ -1,0 +1,50 @@
+
+
+ 
+<ion-content class="ion-padding">
+
+  
+  <div class="logo">
+    <img src="assets/logo.png" alt="logo">
+  </div>
+  <h3>Sign up to continue!</h3>
+
+    <ion-item lines="none">
+        <ion-icon slot="start" name="person-outline"></ion-icon>
+        <ion-input  [(ngModel)]="fullname" placeholder="Enter your fullname" type="text"></ion-input>
+    </ion-item>
+
+    <ion-item lines="none">
+      <ion-icon slot="start" name="mail-outline"></ion-icon>
+      <ion-input [(ngModel)]="email" placeholder="Enter your email" type="text"></ion-input>
+   </ion-item>
+
+  <ion-item lines="none">
+    <ion-icon slot="start" name="call-outline"></ion-icon>
+    <ion-input [(ngModel)]="phone" placeholder="Enter your phone number" type="text"></ion-input>
+  </ion-item>
+
+  <ion-item lines="none">
+    <ion-icon slot="start" name="person-outline"></ion-icon>
+    <ion-input [(ngModel)]="username" placeholder="Enter your username" type="text"></ion-input>
+  </ion-item>
+
+    <ion-item lines="none">
+        <ion-icon  slot="start"  name="lock-closed-outline"></ion-icon>
+        <ion-input [(ngModel)]="password" placeholder="Enter password" type="password"></ion-input>
+    </ion-item>
+  
+      <ion-button  slot="end" class="forgot"fill="clear">Forgot Password?</ion-button>
+      
+    <div class="button">
+      <ion-button (click)="submit()" size="full" shape="round">Submit</ion-button>
+    </div>
+
+    <div class="login">
+      <ion-label>Already have an account?</ion-label>
+     <ion-button fill="clear" routerLink="/login">Login</ion-button>  
+   </div>  
+
+</ion-content>
+
+ 
